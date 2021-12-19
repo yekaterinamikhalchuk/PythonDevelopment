@@ -2,7 +2,7 @@ field = [[' '] * 3 for i in range(3)]
 
 def starting():
     print('------------------------------')
-    print("WELCOME TO TicTacToe GAME!")
+    print('WELCOME TO "TicTacToe" GAME!')
     print("THE GAME STARTS!")
     print('------------------------------')
 def show_field(field):
